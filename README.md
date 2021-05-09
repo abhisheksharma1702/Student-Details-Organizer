@@ -1,2 +1,2 @@
 # Student-Details-Management-System
-Netbeans and MySQL Project
+It is Database Web Application (Netbeans and MySQL Project)
