@@ -1,2 +1,2 @@
-# Student-Details-Management-System
+# Student Details Organizer
 It is Database Web Application (Netbeans and MySQL Project)
